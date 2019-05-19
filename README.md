@@ -19,6 +19,6 @@
 
 This project was a group effort and we all contributed equally to it. We all met up outside of class time and sat down and discussed how this project worked and how to implement it. We ran into a lot of issues understanding the project but we all worked together to ensure that it all worked. A lot of our effort was spent on debugging the program on various machines to make sure that they all work. **Each memeber had a hand in understanding the concepts of the project, designing the layout of the code, programming of the project, debugging of the compiled program, and writing the documentation.**
 
-[Design of Assignment 2](NEED TO UPDATE)
+[Design of Assignment 2]https://docs.google.com/document/d/1m1GvPuXZjzZw8ymdCA2ZRmOkF0d_P2C5CYRI4j8JY3o/edit?usp=sharing
 
 *Photos of the program running can be found in our design document*
